@@ -11,7 +11,7 @@ const StepButton: React.FC<StepButtonProps> = ({
   const { completed, disabled, index } = React.useContext(StepContext);
 
   return (
-    <button disabled={disabled} {...rest}>
+    <button {...rest}>
       <span
         className={clsx(
           contentClasses,
