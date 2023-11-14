@@ -1,17 +1,17 @@
 {
-  "name": "react-form-stepper-custom",
+  "name": "react-form-stepper",
   "description": "React stepper component for multiple step forms",
   "version": "2.0.4",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/M0kY/react-form-stepper.git"
+    "url": "git+https://github.com/headsplicer/react-form-stepper.git"
   },
   "author": "M0kY",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/M0kY/react-form-stepper/issues"
+    "url": "https://github.com/headsplicer/react-form-stepper/issues"
   },
-  "homepage": "https://github.com/M0kY/react-form-stepper#readme",
+  "homepage": "https://github.com/headsplicer/react-form-stepper#readme",
   "keywords": [
     "react",
     "component",
